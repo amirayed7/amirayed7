@@ -1,13 +1,15 @@
-<h2 align="left">Hi 👋! My name is Amir Ayed and I'm a Software Engineer, from Boston!</h2>
+<h2 align="center">Hi 👋! My name is Amir Ayed and I'm a Software Engineer, from Boston!</h2>
 
 ###
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirayed7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=amirayed7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -77,10 +79,10 @@
 
 ###
 
-<p align="left">I am a full stack software engineer with a passion for AI and a broad skill set that includes Python, Java, C, HTML, CSS, JavaScript, Node.js, React, and MongoDB. With a deep understanding of both front-end and back-end development, I have gained the knowledge and passion for building user-friendly applications for everyone. My dream is to combine my passion for software development with a career that has the potential to bring positive change and improve not only my life but also the lives of others around me.</p>
+<p align="center">I am a full stack software engineer with a passion for AI and a broad skill set that includes Python, Java, C, HTML, CSS, JavaScript, Node.js, React, and MongoDB. With a deep understanding of both front-end and back-end development, I have gained the knowledge and passion for building user-friendly applications for everyone. My dream is to combine my passion for software development with a career that has the potential to bring positive change and improve not only my life but also the lives of others around me.</p>
 
-<picture>
-<img src="https://raw.githubusercontent.com/amirayed7/amirayed7/output/snake.svg" alt="Snake animation" />
+<picture align="center">
+<img align="center" src="https://raw.githubusercontent.com/amirayed7/amirayed7/output/snake.svg" alt="Snake animation" />
 </picture>
 
 ###
