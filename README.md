@@ -87,7 +87,37 @@
   <img align="center" src="https://raw.githubusercontent.com/amirayed7/amirayed7/output/snake.svg" alt="Snake animation" />
 </picture>
 
-###
+###  
+<article>
+      <div>
+  <div>
+<table>
+  <tbody><tr>
+    <td width="50%" valign="top">
+      <h3><a></a>MintSite</h3> 
+        <br>
+        <p><a href="https://mintsiteforall.netlify.app" rel="follow">Visit Site</a></p>
+        <br>
+        <a href="#" rel="nofollow">
+            <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm94NWJ0anRpbXA1ZnV6Zm5yMmdrOWJiamI1Y2Z3ZnhwcDl3djl3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d5muml5kc4SOjaQhP7/giphy.gif" style="max-width:100%;">
+        </a>
+<!--         <p><strong>HTML, CSS, Javascript, Node.js, Express.js </strong> - </p> -->
+    </td>
+   <td width="50%" valign="top">
+      <h3><a></a>LuxeLocks </h3> 
+        <br>
+        <p><a href="https://luxelocks.netlify.app" rel="follow">Visit Site</a></p>
+        <br>
+        <a href="#" rel="nofollow">
+         <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF2dWxxMXJ0dmN6a3gwOGdteXBxYXlwdjNwYWRvMWVwZjc4cWM3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2rUZ8o82xhVT5hqUAN/giphy.gif" style="max-width:100%;">
+         </a>
+<!--         <p><strong>HTML, CSS, Javascript, Node.js, Express.js </strong> - </p> -->
+    </td>
+  </tr>
+</tbody></table>
+</article>
+      </div>
+  </div>
 
 
 
