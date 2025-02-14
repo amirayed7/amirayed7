@@ -82,6 +82,7 @@
 
 <img src="https://raw.githubusercontent.com/amirayed7/amirayed7/output/snake.svg" alt="Snake animation" />
 
+
 ###
 
 
