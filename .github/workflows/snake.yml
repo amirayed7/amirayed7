@@ -19,18 +19,25 @@ jobs:
     timeout-minutes: 5  # set a timeout of 5 minutes for this job
 
     steps:
-      # Step 1: Generate the snake SVG
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3  # Platane/snk action to generate snake animation
+      # Step 1: Generate snake.svg for light mode
+      - name: generate snake-light.svg for light mode
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: amirayed7  # Your GitHub username
-          outputs: dist/snake.svg?palette=github-dark  # Save the generated snake SVG with a GitHub dark palette
+          outputs: dist/snake-light.svg?palette=github  # Light palette
 
-      # Step 2: Push the generated snake.svg to the output branch
+      # Step 2: Generate snake.svg for dark mode
+      - name: generate snake-dark.svg for dark mode
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: amirayed7  # Your GitHub username
+          outputs: dist/snake-dark.svg?palette=github-dark  # Dark palette
+
+      # Step 3: Push the generated SVGs to the output branch
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0  # Action to push to the output branch
         with:
-          target_branch: output  # Target branch for the SVG file
-          build_dir: dist  # Directory containing the generated SVG
+          target_branch: output  # Target branch for the SVG files
+          build_dir: dist  # Directory containing the generated SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
