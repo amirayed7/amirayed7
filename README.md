@@ -5,7 +5,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirayed7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-  <img src="https://streak-stats.demolab.com?user=amirayed7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=amirayed7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 <br clear="both">
 
@@ -82,7 +82,9 @@
 <p align="center">I am a full stack software engineer with a passion for AI and a broad skill set that includes Python, Java, C, HTML, CSS, JavaScript, Node.js, React, and MongoDB. With a deep understanding of both front-end and back-end development, I have gained the knowledge and passion for building user-friendly applications for everyone. My dream is to combine my passion for software development with a career that has the potential to bring positive change and improve not only my life but also the lives of others around me.</p>
 
 <picture align="center">
-<img align="center" src="https://raw.githubusercontent.com/amirayed7/amirayed7/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirayed7/amirayed7/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirayed7/amirayed7/output/snake-dark.svg">
+  <img align="center" src="https://raw.githubusercontent.com/amirayed7/amirayed7/output/snake.svg" alt="Snake animation" />
 </picture>
 
 ###
